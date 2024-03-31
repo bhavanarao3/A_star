@@ -46,7 +46,3 @@ The program visualizes the exploration process and the final path.
 
 
 
-
-
-Github repo for the project
-https://github.com/sriramprasadkothapalli/A-Star-Search-Algorithm-Phase-1
