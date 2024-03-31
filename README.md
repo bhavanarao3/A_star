@@ -1,8 +1,8 @@
-# README for A* Algorithm Pathfinding
+### README for A* Algorithm Pathfinding
 
 This project implements A* algorithm to find the shortest path between two points in a given obstacle environment. The algorithm visualizes the pathfinding process and the final path.
 
-Dependencies
+#Dependencies
 To run this code, you will need Python installed on your system along with the following libraries:
 
 NumPy
@@ -17,7 +17,7 @@ Navigate to the directory containing the script. If your script is in a folder c
 cd Desktop/A_star_Pathfinding
 
 
-Providing Inputs
+#Providing Inputs
 After running the script, you will be prompted to enter the start and goal coordinates in the terminal or command prompt. Here's the format you should follow:
 
 Enter Robot radius(5mm) : Enter 5mm as the radius of the robot
@@ -36,7 +36,7 @@ Enter y co-ordinate of goal position: Enter the Y-coordinate of the goal positio
 
 Enter step length(L) 1-10: ENter the step length   
 
-EXAMPLE Input
+#EXAMPLE Input:
 Enter x co-ordinate of start position: 220
 
 Enter y co-ordinate of start position: 480
@@ -52,7 +52,7 @@ End point angle (theta): 30
 Enter the step size (L): 10
 
 
-OUTPUT
+#OUTPUT
 The program visualizes the exploration process and the final path.
 
 
